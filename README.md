@@ -108,7 +108,7 @@ python airport_timeline.py
 
 | Сезонность бронирований | Распределение статусов | Активность по странам |
 |---|---|---|
-| ![Сезонность](charts/line_chart_seasonality.png) | ![Статусы](charts/pie_chart_status_distribution.png) | ![Страны](charts/scatter_country_activity.png) |
+| ![Сезонность](2nd assn/charts/line_chart_seasonality.png) | ![Статусы](charts/pie_chart_status_distribution.png) | ![Страны](charts/scatter_country_activity.png) |
 
 | Топ‑10 авиакомпаний | Топ‑15 аэропортов | Активность пассажиров |
 |---|---|---|
